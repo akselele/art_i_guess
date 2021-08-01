@@ -20,7 +20,7 @@ function draw() {
   //   line(0, i * 30, 10 + randomNumber, 0)
   // }
 
-  //ellipsen
+  // ellipsen
   // for (let i = 0; i < 30; i++) {
   //   let top = random(windowHeight)
   //   let bottom = random(windowWidth)
